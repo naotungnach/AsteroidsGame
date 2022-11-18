@@ -25,8 +25,8 @@ public void keyPressed(){
   bro.setXspeed(0);
   bro.setYspeed(0);
     }
-  if (key == 'a'){bro.turn(20);}
-  if (key == 'd'){bro.turn(-20);}
+  if (key == 'd'){bro.turn(20);}
+  if (key == 'a'){bro.turn(-20);}
   if (key == 'h'){
     bro.setXspeed(0);
     bro.setYspeed(0);
